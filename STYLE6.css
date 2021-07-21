@@ -1,0 +1,74 @@
+
+body {
+    margin: 0px;
+    background-image: url(pexels-cottonbro-5054208.jpg);
+    background-size: cover;
+    height: 100vh;
+    margin: 0px;
+    font-family: montserrat, sans-serif
+}
+botton {
+    text-align: center;
+}
+.class {
+    background-position: center;
+
+}
+h1 {
+    text-align: center;
+    align-content: center;
+}
+div {
+    width: 100%;
+    margin: 0%;
+    opacity: 5.0;
+}
+header {
+    margin: 0%;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.8;
+}
+hr {
+    max-width: 60005px;
+    border-width: 3000px;
+    border-color: #F05F44;
+}
+.faded {
+    color: rgba(255, 255, 255, 0.8;
+}
+
+.header.startup {
+    background-position: center;
+    background-image: url("header.jpg");
+}
+
+.header.startup hr {
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.header.startup h1 {
+    font-size: 2rem;
+}
+
+.btn {
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 300px;
+    font-family: montserrat, san-serif;
+}
+
+.btn-xl {
+    padding: 1rem 2rem;
+}
+
+.btn-primary {
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-primary:hover {
+    background-color: #ee4b08;
+    border-color: #F05F44;
+}
