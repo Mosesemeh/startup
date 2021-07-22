@@ -1,0 +1,71 @@
+Selector {
+    Property: value;
+}
+
+body{
+background-image: url(Screenshot.jpg.png);
+background-size: cover;
+margin: 0;
+background-color: rgb(214, 204, 188)
+}
+h2 {
+    color: rgb(151, 195, 201);
+    text-align: center;
+    background-color: black;
+    border-bottom: 6px solid palevioletred;
+    border-right: 6px solid palevioletred; 
+    width: 550px;
+    cursor: pointer;
+    box-shadow: 4px 4px 5px #888888;
+}
+p  {
+    color: rgb(241, 155, 155);
+    background-color: rgba(14, 2, 2);
+    text-decoration: underline;
+    text-decoration-color: red;
+    width: 650px;
+}
+li {
+    background-color:transparent;
+        list-style: none;
+        color: rgb(166, 187, 71, 10000);
+        cursor: pointer;
+}
+h1 {
+    color: brown;
+    background-color: rgb(241, 240, 240);
+    border: 5px solid rgb(16, 22, 5);
+    width: 600px;
+}
+a {
+    background-color: rgb(230, 224, 224);
+}
+div {
+    background-color: black;
+    opacity: 0.8;
+    width: 100%;
+    margin: 0px; 
+}
+.webtext {
+    border: 5px solid yellowgreen;
+}
+.active {
+    color: rgb(119, 4, 71);
+    border-color: red;
+}
+footer {
+    clear: both;
+    text-align: center;
+    font-weight: bold;
+    font-style: bold;
+}
+button {
+    background-color: rgb(245, 246, 248);
+}
+.container {
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+    color: rgb(2, 14, 48);
+    background-color: aliceblue
+}
+
